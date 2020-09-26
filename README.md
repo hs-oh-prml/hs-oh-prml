@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hsoh0306)](https://github.com/anuraghazra/github-readme-stats)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hsoh0306)](https://solved.ac/hsoh0306)
