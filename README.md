@@ -6,15 +6,15 @@
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hsoh0306.github.io/)](https://hsoh0306.github.io/)
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhgudtjr0306@gmail.com)](mailto:dhgudtjr0306@gmail.com)
 
-# About
-Major: Computer Science Engineering Konkuk Univ.
+## About
+Computer Science Engineering Konkuk Univ.
 
-# Interest
+## Interest
 - ML/AI
 - Android
 - Algorithm
 
-# Stats
+## Stats
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hsoh0306)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
