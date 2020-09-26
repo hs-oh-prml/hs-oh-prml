@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 <div align=center>
  
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hsoh0306)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsoh0306&layout=compact)](https://github.com/hsoh0306/)
 
 </div>
 <div align=center> 
@@ -37,10 +38,3 @@ Here are some ideas to get you started:
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhgudtjr0306@gmail.com)](mailto:dhgudtjr0306@gmail.com)
 
 </div>
-<div align=center>
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsoh0306&layout=compact)](https://github.com/hsoh0306/)
-
-</div>
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hsoh0306)](https://github.com/hsoh0306/)
