@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 
 </div>
 
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hsoh0306)](https://github.com/hsoh0306/)
