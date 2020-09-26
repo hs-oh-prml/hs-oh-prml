@@ -1,6 +1,6 @@
 <div align=center>
 
- ### Develope Yourself
+ # Develope Yourself
 
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhsoh0306%2F&count_bg=%23AA0E0E&title_bg=%23555555&icon=&icon_color=%23E6C5C5&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hsoh0306.github.io/)](https://hsoh0306.github.io/)
