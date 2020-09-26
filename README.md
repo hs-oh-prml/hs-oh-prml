@@ -1,4 +1,6 @@
-### Hi there 👋
+### Develope Yourself
+
+## I'm interest in ML/AI, Android, Algorithm..etc
 
 <!--
 **hsoh0306/hsoh0306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
