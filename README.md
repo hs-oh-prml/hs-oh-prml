@@ -1,6 +1,9 @@
 ### Develope Yourself
 
-I'm interest in ML/AI, Android, Algorithm...etc
+### Interest
+- ML/AI
+- Android
+- Algorithm
 
 
 <!--
