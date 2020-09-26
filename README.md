@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 </div>
 <div align=center>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsoh0306)](https://github.com/hsoh0306/)
- 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsoh0306&layout=compact)](https://github.com/hsoh0306/)
+
 </div>
 
 
