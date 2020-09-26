@@ -37,5 +37,10 @@ Here are some ideas to get you started:
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhgudtjr0306@gmail.com)](mailto:dhgudtjr0306@gmail.com)
 
 </div>
+<div align=center>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsoh0306)](https://github.com/hsoh0306/)
+ 
+</div>
 
 
