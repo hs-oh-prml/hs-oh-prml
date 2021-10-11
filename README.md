@@ -11,6 +11,7 @@
 
 ### About
 2017-2021, B.S. Computer Science Engineering in Konkuk University 
+
 2021-    , M.S. Pattern Recognition&Machine Learning Lab in Korea University 
 
 ### Interest
