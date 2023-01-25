@@ -7,8 +7,9 @@
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hs_oh@korea.ac.kr)](mailto:hs_oh@korea.ac.kr)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsoh0306)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsoh0306)](https://github.com/anuraghazra/github-readme-stats)
-### About
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsoh0306)](https://github.com/anuraghazra/github-readme-stats) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsoh0306&show_icons=true&theme=radical)
+ ### About
 2017-2021, B.S. Computer Science Engineering in Konkuk University 
 
 2021-    , M.S. Pattern Recognition&Machine Learning Lab in Korea University 
