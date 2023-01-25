@@ -6,8 +6,7 @@
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hsoh0306.github.io/)](https://hsoh0306.github.io/)
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hs_oh@korea.ac.kr)](mailto:hs_oh@korea.ac.kr)
 
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hsoh0306)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsoh0306)](https://github.com/anuraghazra/github-readme-stats)
 
 ### About
 2017-2021, B.S. Computer Science Engineering in Konkuk University 
