@@ -1,10 +1,3 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-
 <div align=center>
 
  # Develope Yourself
@@ -13,8 +6,8 @@
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hsoh0306.github.io/)](https://hsoh0306.github.io/)
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hs_oh@korea.ac.kr)](mailto:hs_oh@korea.ac.kr)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsoh0306)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsoh0306)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsoh0306)](https://github.com/anuraghazra/github-readme-stats)
 ### About
 2017-2021, B.S. Computer Science Engineering in Konkuk University 
 
