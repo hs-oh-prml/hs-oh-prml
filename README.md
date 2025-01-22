@@ -1,16 +1,17 @@
 ## Hyung-Seok Oh 
+Integrated M.S.&Ph.D Student Department of Artificial Intelligence Korea University, Seoul, South Korea
  - Email: hs_oh@korea.ac.kr
  - Google Scholar: [Link](https://scholar.google.com/citations?user=pgJeqLIAAAAJ&hl=en)
  - PRML Speech Team (Supervisor: [Seong-Whan Lee](http://pr.korea.ac.kr/sub2_1.php?code=LSW)): [Link](https://prml-lab-speech-team.github.io/demo/)
 
-### Research Interest
+### ✨ Research Interest
 - Speech Synthesis
 - Neural Vocoder
 - Voice Conversion
 - Generative Models
 - Affective computing 
 
-### Publications
+### 📖 Publications
 - 2025 - DurFlex-EVC: Duration-Flexible Emotional Voice Conversion Leveraging Discrete Representations Without Text Alignment, HS Oh, SH Lee, DH Cho, SW Lee, IEEE Transactions on Affective Computing
 - 2025 - JELLY: Joint Emotion Recognition and Context Reasoning with LLMs for Conversational Speech Synthesis, JH Cha, SB Kim, HS Oh, SW Lee, ICASSP.
 - 2024 - EmoSphere-TTS: Emotional Style and Intensity Modeling via Spherical Emotion Vector for Controllable Emotional Text-to-Speech, DH Cho, HS Oh, SB Kim, SH Lee, SW Lee, INTERSPEECH
@@ -19,7 +20,7 @@
 - 2021 - Haze removal network using unified function for image dehazing, HS Oh, HN Kim, YJ Kim, CH Yim, Electronics Letters.
 
 
-### Education
+### 🎓 Education
 2021-    , M.S. & Ph.D Dept. of Artificial Intelligence, Korea University 
 
 2017-2021, B.S. Dept. of Computer Science Engineering, Konkuk University 
