@@ -1,26 +1,28 @@
-<div align=center>
+## Hyung-Seok Oh 
+ - Email: hs_oh@korea.ac.kr
+ - Google Scholar: [Link](https://scholar.google.com/citations?user=pgJeqLIAAAAJ&hl=en)
+ - PRML Speech Team (Supervisor: [Seong-Whan Lee](http://pr.korea.ac.kr/sub2_1.php?code=LSW)): [Link](https://prml-lab-speech-team.github.io/demo/)
 
- # Develope Yourself
-
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhsoh0306%2F&count_bg=%23AA0E0E&title_bg=%23555555&icon=&icon_color=%23E6C5C5&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hsoh0306.github.io/)](https://hsoh0306.github.io/)
- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hs_oh@korea.ac.kr)](mailto:hs_oh@korea.ac.kr)
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsoh0306)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsoh0306)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsoh0306&show_icons=true&theme=dark) -->
- ### About
-2017-2021, B.S. Computer Science Engineering in Konkuk University 
-
-2021-    , M.S. Pattern Recognition&Machine Learning Lab in Korea University 
-
-### Interest
+### Research Interest
 - Speech Synthesis
-- Android
-- Algorithm
-- PyTorch
-</div>
+- Neural Vocoder
+- Voice Conversion
+- Generative Models
+- Affective computing 
 
+### Publications
+- 2025 - DurFlex-EVC: Duration-Flexible Emotional Voice Conversion Leveraging Discrete Representations Without Text Alignment, HS Oh, SH Lee, DH Cho, SW Lee, IEEE Transactions on Affective Computing
+- 2025 - JELLY: Joint Emotion Recognition and Context Reasoning with LLMs for Conversational Speech Synthesis, JH Cha, SB Kim, HS Oh, SW Lee, ICASSP.
+- 2024 - EmoSphere-TTS: Emotional Style and Intensity Modeling via Spherical Emotion Vector for Controllable Emotional Text-to-Speech, DH Cho, HS Oh, SB Kim, SH Lee, SW Lee, INTERSPEECH
+- 2024 - Diffprosody: Diffusion-based latent prosody generation for expressive speech synthesis with prosody conditional adversarial training, HS Oh, SH Lee, SW Lee, IEEE/ACM Transactions on Audio, Speech, and Language Processing
+- 2023 - HierVST: Hierarchical Adaptive Zero-shot Voice Style Transfer, SH Lee, HY Choi, HS Oh, SW Lee, INTERSPEECH.
+- 2021 - Haze removal network using unified function for image dehazing, HS Oh, HN Kim, YJ Kim, CH Yim, Electronics Letters.
+
+
+### Education
+2021-    , M.S. & Ph.D Dept. of Artificial Intelligence, Korea University 
+
+2017-2021, B.S. Dept. of Computer Science Engineering, Konkuk University 
 
 
 <!--
