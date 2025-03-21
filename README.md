@@ -22,8 +22,10 @@ Integrated M.S.&Ph.D Student Department of Artificial Intelligence Korea Univers
 
 ### 🎓 Education
 - 2021-    , M.S. & Ph.D Dept. of Artificial Intelligence, Korea University 
-- 2017-2021, B.S. Dept. of Computer Science Engineering, Konkuk University 
-
+- 2017-2021, B.S. Dept. of Computer Science Engineering, Konkuk University
+  
+### 🎗 Services
+Reviewer: Transactions on Audio, Speech and Language Processing (TASLP), Transactions on Affectiv Computing
 
 <!--
 **hsoh0306/hsoh0306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
