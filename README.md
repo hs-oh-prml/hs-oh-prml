@@ -12,6 +12,7 @@ Integrated M.S.&Ph.D Student Department of Artificial Intelligence Korea Univers
 - Affective computing 
 
 ### 📖 Publications
+- 2025 - UnitCorrect: Unit-based Mispronunciation Correcting System with a DTW-based Detection, H.-W. Bae, H.-S. Oh, S.-B. Kim, S.-W. Lee, IEEE/ACM Transactions on Audio, Speech, and Language Processing
 - 2025 - DurFlex-EVC: Duration-Flexible Emotional Voice Conversion Leveraging Discrete Representations Without Text Alignment, H.-S. Oh, S.-H. Lee, D.-H. Cho, S.-W. Lee, IEEE Transactions on Affective Computing
 - 2025 - JELLY: Joint Emotion Recognition and Context Reasoning with LLMs for Conversational Speech Synthesis, J.-H. Cha, S.-B. Kim, H.-S. Oh, S.-W. Lee, ICASSP.
 - 2024 - EmoSphere-TTS: Emotional Style and Intensity Modeling via Spherical Emotion Vector for Controllable Emotional Text-to-Speech, D.-H. Cho, H.-S. Oh, S.-B. Kim, S.-H. Lee, S.-W. Lee, INTERSPEECH
