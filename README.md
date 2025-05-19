@@ -12,6 +12,9 @@ Integrated M.S.&Ph.D Student Department of Artificial Intelligence Korea Univers
 - Affective computing 
 
 ### 📖 Publications
+- 2025 - VibE-Singer: Vibrato Extraction with High Frequency Pitch for Singing Voice Conversion, J.-S. Choi, D.-M. Byun, H.-S. Oh, S.-W. Lee, INTERSPEECH
+- 2025 - DiEmo-TTS: Disentangled Emotion Representations via Self-Supervised Distillation for Cross-Speaker Emotion Transfer in Text-to-Speech, D.-H. Cho, H.-S. Oh, S.-B. Kim, S.-W. Lee, INTERSPEECH
+- 2025 - EmoSphere-SER: Enhancing Speech Emotion Recognition through Spherical Representation with Auxiliary Classification, D.-H. Cho, H.-S. Oh, S.-B. Kim, S.-W. Lee, INTERSPEECH
 - 2025 - EmoSphere++: Emotion-Controllable Zero-Shot Text-to-Speech via Emotion-Adaptive Spherical Vector, D.-H. Cho, H.-S. Oh, S.-B. Kim, S.-W. Lee, IEEE Transactions on Affective Computing
 - 2025 - UnitCorrect: Unit-based Mispronunciation Correcting System with a DTW-based Detection, H.-W. Bae, H.-S. Oh, S.-B. Kim, S.-W. Lee, IEEE/ACM Transactions on Audio, Speech, and Language Processing
 - 2025 - DurFlex-EVC: Duration-Flexible Emotional Voice Conversion Leveraging Discrete Representations Without Text Alignment, H.-S. Oh, S.-H. Lee, D.-H. Cho, S.-W. Lee, IEEE Transactions on Affective Computing
