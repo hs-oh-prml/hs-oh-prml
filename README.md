@@ -13,7 +13,7 @@ Integrated M.S.&Ph.D Student Department of Artificial Intelligence Korea Univers
 
 ### 📖 Publications
 - 2025 - FillerSpeech: Towards Human-Like Text-to-Speech Synthesis with Filler Injection and Filler Style Control, S.-B. Kim, J.-H. Cha, H.-S. Oh, H.-J. Choi, S.-W. Lee, EMNLP
-- 2025 - EmoSphere-SER: Enhancing Speech Emotion Recognition through Spherical Representation with Auxiliary Classification, D.-H. Cho, H.-S. Oh, S.-B. Kim, S.-W. Lee, INTERSPEECH (Speech Emotion Recognition in Naturalistic Conditions Challenge)
+- 2025 - EmoSphere-SER: Enhancing Speech Emotion Recognition through Spherical Representation with Auxiliary Classification, D.-H. Cho, H.-S. Oh, S.-B. Kim, S.-W. Lee, INTERSPEECH
 - 2025 - VibE-Singer: Vibrato Extraction with High Frequency Pitch for Singing Voice Conversion, J.-S. Choi, D.-M. Byun, H.-S. Oh, S.-W. Lee, INTERSPEECH
 - 2025 - DiEmo-TTS: Disentangled Emotion Representations via Self-Supervised Distillation for Cross-Speaker Emotion Transfer in Text-to-Speech, D.-H. Cho, H.-S. Oh, S.-B. Kim, S.-W. Lee, INTERSPEECH
 - 2025 - EmoSphere-SER: Enhancing Speech Emotion Recognition through Spherical Representation with Auxiliary Classification, D.-H. Cho, H.-S. Oh, S.-B. Kim, S.-W. Lee, INTERSPEECH
