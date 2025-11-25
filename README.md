@@ -31,6 +31,9 @@ Integrated M.S.&Ph.D Student Department of Artificial Intelligence Korea Univers
 - 2021-    , M.S. & Ph.D Dept. of Artificial Intelligence, Korea University 
 - 2017-2021, B.S. Dept. of Computer Science Engineering, Konkuk University
   
+### 🎉 Awards
+- 2025 - 제1회 (사)한국인공지능학회 AI Frontier Challenge - 우수상
+
 ### 🎉 Services
 Reviewer: IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), IEEE Transactions on Affective Computing (TAFFC)
 
