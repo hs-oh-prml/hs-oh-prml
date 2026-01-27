@@ -12,6 +12,7 @@ Integrated M.S.&Ph.D Student Department of Artificial Intelligence Korea Univers
 - Affective computing 
 
 ### 📖 Publications
+- 2026 - Toward Complex-Valued Neural Networks for Waveform Generation, H.-S. Oh, D.-H. Cho, S.-B. Kim, S.-W. Lee, ICLR
 - 2025 - FillerSpeech: Towards Human-Like Text-to-Speech Synthesis with Filler Injection and Filler Style Control, S.-B. Kim, J.-H. Cha, H.-S. Oh, H.-J. Choi, S.-W. Lee, EMNLP
 - 2025 - EmoSphere-SER: Enhancing Speech Emotion Recognition through Spherical Representation with Auxiliary Classification, D.-H. Cho, H.-S. Oh, S.-B. Kim, S.-W. Lee, INTERSPEECH
 - 2025 - VibE-Singer: Vibrato Extraction with High Frequency Pitch for Singing Voice Conversion, J.-S. Choi, D.-M. Byun, H.-S. Oh, S.-W. Lee, INTERSPEECH
@@ -35,7 +36,7 @@ Integrated M.S.&Ph.D Student Department of Artificial Intelligence Korea Univers
 - 2025 - 제1회 (사)한국인공지능학회 AI Frontier Challenge - 우수상
 
 ### 🎉 Services
-Reviewer: IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), IEEE Transactions on Affective Computing (TAFFC)
+Reviewer: IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), IEEE Transactions on Affective Computing (TAFFC), ACL
 
 <!--
 **hsoh0306/hsoh0306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
