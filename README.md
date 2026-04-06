@@ -12,6 +12,7 @@ Integrated M.S.&Ph.D Student Department of Artificial Intelligence Korea Univers
 - Affective computing 
 
 ### 📖 Publications
+- 2026 - Affectron: Emotional Speech Synthesis with Affective and Contextually Aligned Nonverbal Vocalizations, D.-H. Cho, H.-S. Oh, S.-B. Kim, S.-W. Lee, ACL (findings)
 - 2026 - Toward Complex-Valued Neural Networks for Waveform Generation, H.-S. Oh, D.-H. Cho, S.-B. Kim, S.-W. Lee, ICLR
 - 2025 - FillerSpeech: Towards Human-Like Text-to-Speech Synthesis with Filler Injection and Filler Style Control, S.-B. Kim, J.-H. Cha, H.-S. Oh, H.-J. Choi, S.-W. Lee, EMNLP
 - 2025 - EmoSphere-SER: Enhancing Speech Emotion Recognition through Spherical Representation with Auxiliary Classification, D.-H. Cho, H.-S. Oh, S.-B. Kim, S.-W. Lee, INTERSPEECH
