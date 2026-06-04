@@ -32,6 +32,10 @@ My research focuses on speech generation and affective speech modeling, includin
 ## Publications
 
 ### 2026
+- L-Proto: Language-Aware Episodic Prototypical Training for Multilingual Speaker Verification  
+  H.-S. Oh, D.-H. Cho, S.-B. Kim, S.-W. Lee
+  *INTERSPEECH, 2026*
+  
 - Affectron: Emotional Speech Synthesis with Affective and Contextually Aligned Nonverbal Vocalizations  
   D.-H. Cho, H.-S. Oh, S.-B. Kim, S.-W. Lee  
   *ACL Findings, 2026*
